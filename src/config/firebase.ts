@@ -1,7 +1,6 @@
-
-import firebase from 'firebase/app'
-import 'firebase/firestore'
-import 'firebase/auth'
+import firebase from "firebase/app";
+import "firebase/firestore";
+import "firebase/auth";
 
 const firebaseConfig = {
   apiKey: "AIzaSyAIBxoop3o82-NsE57F-5rsZ7DDOzBL838",
@@ -10,7 +9,7 @@ const firebaseConfig = {
   projectId: "momentum-multiply-poc",
   storageBucket: "momentum-multiply-poc.appspot.com",
   messagingSenderId: "342736840552",
-  appId: "1:342736840552:web:0582ecfac8dd8c49"
+  appId: "1:342736840552:web:0582ecfac8dd8c49",
 };
 
 firebase.initializeApp(firebaseConfig);
