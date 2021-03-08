@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### After cloning this repo
 
-In the project directory, assuming you have npm installed, you can install the project dependencies(node_modules) by running:
+In the project directory, assuming you have [https://www.npmjs.com/get-npm](npm) installed, you can install the project dependencies(node_modules) by running:
 
 ### `npn i` or `npn install`
 
