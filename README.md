@@ -1,12 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+In the project directory, assuming you have npm installed, you can install the project dependencies(node_modules) by running:
 
-In the project directory, you can run:
+### `npn i` or `npn install`
+
+After successfully installation of dependencies, to start a local development build - run; 
 
 ### `yarn start`
 
-Runs the app in the development mode.<br>
+This runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
