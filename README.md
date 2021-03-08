@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### After cloning this repo
+
 In the project directory, assuming you have npm installed, you can install the project dependencies(node_modules) by running:
 
 ### `npn i` or `npn install`
