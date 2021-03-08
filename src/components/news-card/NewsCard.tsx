@@ -31,7 +31,7 @@ const NewsCard: React.FC<IProps> = ({ newsArticles }) => {
                     <CardContainer>
                         <CardHeader>{article.author || dummyAuther}</CardHeader>
                         <CardContent>
-                            <div dangerouslySetInnerHTML={{ __html: article.description } || dummyDescription} />
+                            <div dangerouslySetInnerHTML={{ __html: article.content } || dummyDescription} />
                         </CardContent>
                     </CardContainer>
                     <ButtonContainer>
